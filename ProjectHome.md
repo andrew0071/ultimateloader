@@ -1,0 +1,1 @@
+This library designed for loading and parsing several items to your flash application. You can create groups from contents and set the load methode. This means that you can load groups or group items in sync or async method.
